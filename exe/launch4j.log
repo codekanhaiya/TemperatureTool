@@ -1,0 +1,21 @@
+
+
+Version:	3.50
+CmdLine:	D:\JavaProjects\Tool\exe\tool.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	MyTool
+Working dir:	D:\JavaProjects\Tool\exe\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+JRE paths:	jre
+Check launcher:	D:\JavaProjects\Tool\exe\jre\bin\javaw.exe (OK)
+Version string: 1.008.000_212 / 64-Bit (OK)
+Main class:	converterToolPackage.ToolMain
+Info:		Classpath not defined.
+Launcher:	D:\JavaProjects\Tool\exe\jre\bin\javaw.exe
+Launcher args:	-classpath "D:\JavaProjects\Tool\exe\tool.exe" converterToolPackage.ToolMain
+Args length:	76/32768 chars
+Exit code:	0

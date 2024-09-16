@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\JavaProjects\Tool\out\artifacts\Tool_app_jar\Tool.app.jar</jar>
+  <outfile>D:\JavaProjects\Tool\exe\tool.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>D:\JavaProjects\Tool\src\icon\Temp.ico</icon>
+  <singleInstance>
+    <mutexName>MyTool</mutexName>
+    <windowTitle>MyWindow</windowTitle>
+  </singleInstance>
+  <classPath>
+    <mainClass>converterToolPackage.ToolMain</mainClass>
+  </classPath>
+  <jre>
+    <path>jre</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.4.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
